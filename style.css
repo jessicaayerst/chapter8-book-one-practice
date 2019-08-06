@@ -1,0 +1,20 @@
+header{
+    text-align: center;
+}
+
+.list{
+    display: flex;
+    
+    flex-wrap: wrap;
+    height: 50px;
+    width: 100%;
+    justify-content: space-around;
+    
+}
+
+.shop{
+    display: flex;
+    width: 30%;
+   
+}
+
